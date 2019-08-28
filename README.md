@@ -23,7 +23,7 @@ The proposed ensemble method consistently outperformed thirteen individual model
 
 
 ### Installation via pip
-pip install pandas sklearn tensorflow keras
+pip install pandas sklearn tensorflow keras ...
 
 ### Getting Started
 
