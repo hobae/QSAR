@@ -1,6 +1,6 @@
 # Comprehensive Ensemble in QSAR Prediction forDrug Discovery
 
-# Abstract
+## Abstract
 #### Background
  Quantitative structure-activity relationship (QSAR) is a computational modeling method to reveal relationships between structural properties of chemical compounds and biological activities. QSAR modeling is essential for drug discovery, but it has many constraints. Ensemble-based machine learning approaches have been used to overcome constraints and obtain reliable predictions.
 Ensemble learning builds a set of diversified models and combines them.
@@ -11,7 +11,7 @@ The proposed ensemble method consistently outperformed thirteen individual model
 
 <img src="figures/Figure1.png" width=450>
 
-# Requirements
+### Requirements
 - sckikit-learn
 - keras
 - tensorflow
@@ -22,10 +22,10 @@ The proposed ensemble method consistently outperformed thirteen individual model
 - pillow
 
 
-# Installation via pip
+### Installation via pip
 pip install pandas sklearn tensorflow keras
 
-# Getting Started
+### Getting Started
 
 - step1. CREATE CV and RESULTS/PROB DATA folders 
 - step2. Download data to DATA folder
@@ -34,7 +34,7 @@ pip install pandas sklearn tensorflow keras
 - step5. run qsar_result.py to get final results
 
 
-# File Descriptions
+### File Descriptions
 
 (models.py), (sequtils.py)
 - libraries
