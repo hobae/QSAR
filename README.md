@@ -9,7 +9,7 @@ However, the most prevalent random forest and other ensemble approaches in QSAR 
 We propose a comprehensive ensemble method that builds multi-subject diversified models and combines them through second-level meta-learning. In addition, we propose an end-to-end neural network-based individual classifier that can automatically extract sequential features from a simplified molecular-input line-entry system (SMILES). The proposed individual model did not show impressive results as a single model, but it was considered the most important predictor when combined, according to the interpretation of meta-learning. 
 The proposed ensemble method consistently outperformed thirteen individual models on 19 bioassay datasets and demonstrated superiority over other ensemble approaches that are limited to a single subject.
 
-<img src="Figures/Figure1.png" width="100">
+<img src="figures/Figure1.png" width=450>
 
 
 # Prerequistes
