@@ -27,7 +27,7 @@ pip install pandas sklearn tensorflow keras ...
 
 ### Getting Started
 
-- step1. CREATE CV and RESULTS/PROB DATA folders 
+- step1. CREATE CV and RESULTS/PROB DATA folders  
 *Create fold numbers for CV. (e.g., CV/1, CV2, ..., CV5)
 
 - step2. Download data to DATA folder
