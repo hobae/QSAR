@@ -28,11 +28,11 @@ pip install pandas sklearn tensorflow keras ...
 ### Getting Started
 
 - step1. CREATE CV and RESULTS/PROB DATA folders 
-*Create fold numbers for CV. (e.g., CV/1, CV2, ..., CV5)
+(*Create fold numbers for CV. (e.g., CV/1, CV2, ..., CV5))
 - step2. Download data to DATA folder
-*For the use of alternative data, please use sequtils.py to covert data type to one of followings: smiles, pubchem, ECFP, MACCS
+(*For the use of alternative data, please use sequtils.py to covert data type to one of followings: smiles, pubchem, ECFP, MACCS)
 - step3. run all datasets of qsar_classifiy.py (executing expe_runs.py will do)
-*This will create a learning models of SVM, RF, GBM, NNGB, and NN
+(*This will create a learning models of SVM, RF, GBM, NNGB, and NN)
 - step4. run qsar_weightlearn.py for second-level learning
 - step5. run qsar_result.py to get final results
 
